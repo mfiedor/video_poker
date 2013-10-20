@@ -1,0 +1,15 @@
+This is a written by hand video poker game.
+
+Anyone can improve on this by:
+
+
+1. implement game saving/loading
+2. a tk preferences window 
+3. clean up the code
+4. prevent the player from pressing Replay until he gets a good hand dealt to him 
+5. making sure the program prevents playing with zero money.
+
+
+I have moved onto other projects, and may come back to this one. 
+
+This is the first actual program that I have written, albeit incomplete.
